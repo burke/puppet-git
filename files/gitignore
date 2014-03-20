@@ -11,3 +11,7 @@ ehthumbs.db
 *.orig
 *~
 \#*\#
+.rbenv-vars
+.lvimrc
+.powenv
+.agignore
